@@ -1,0 +1,7 @@
+The function of this project is to be able to track the exercises: jumping jacks, squats, push-ups, and sit-ups. The microcontroller is powered by a lithium polymer
+battery and will be placed around the user's abdomen. I put strings in the connection pads so that it can be worn by the user and these other strings can be
+tightened. The program will start when the user hits this button. Each rep of an exercise will have every neopixel light up. For jumping jacks, the lights will be
+green. For squats, the lights will be red. For push ups, the lights will be yellow and for sit-ups, the lights will be blue. The microcontroller will also emit a
+sound of a different frequency, with the jumping jacks being the lowest frequency and squats being the highest frequency, in alphabetical order. Once the user has
+finished an exercise, all the neopixels will light up a different color. If the user wants to stop the current exercise or wants to move on to the next exercise,
+they can push the reset button on the microcontroller. The user will be doing ten repetitions of each exercise. 
